@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there! 👋 I'm Sam
 
-<!--
-**Sam-2503/Sam-2503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at NIT Silchar
+💻 Aspiring C++ Developer
+🌱 Currently learning the fundamentals of C++ and exploring various programming concepts.
 
-Here are some ideas to get you started:
+About Me
+🔭 I’m currently working on improving my C++ programming skills through various projects and challenges.
+🌱 I’m learning C++ basics like loops, conditional statements, functions, and object-oriented programming.
+🎯 Future Goals: Dive deeper into competitive programming and explore advanced topics like file handling, dynamic memory, and data structures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+Languages: C++, C
+Tools: Visual Studio Code, Code::Blocks, Git, GitHub
+Areas of Interest: Problem solving, Data Structures, Algorithms, Object-Oriented Programming (OOP)
+
+⚡ Fun fact: I enjoy solving puzzles and am passionate about learning new things every day!
+Feel free to check out my repositories as I document my learning journey in C++.
