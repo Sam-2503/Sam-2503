@@ -1,9 +1,8 @@
-# About
+## About
 Hi there! 👋 I'm Sam
 <ul>
   <li>Student at NIT Silchar</li>
   <li>Currently working on Front-End Development</li>
-
 
 ### Skills
 <h3>
